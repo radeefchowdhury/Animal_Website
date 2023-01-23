@@ -1,2 +1,3 @@
 # Animal_Website
+The goal of this project is to develop a professional and user-friendly website for a pet store that is easily accessible to all users. The website will be responsive, meaning it will work well across mobile, tablet, and computer devices. It will also have a simple graphical user interface to make it easy to navigate. The website will have a backstore feature that allows users to edit pets, user settings, and orders. Additionally, the website will be hosted and users will be able to create an account or sign in to access its features. The website will be built using JavaScript, HTML, CSS, and PHP, ensuring a consistent design and optimal functionality.
  
