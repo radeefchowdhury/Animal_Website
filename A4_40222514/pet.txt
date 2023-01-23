@@ -1,0 +1,6 @@
+1:aaa:Cat:Persian Cat:Young:Male:Dog:Yes
+2:aaa:Cat:Bengal Cat:Young:Male:Cat:Yes
+3:aaa:Cat:Scottish Fold:Young:Male:DogCat:Yes
+4:aaa:Dog:Bulldog:Young:Male:neither:Yes
+5:aaa:Dog:German Shepherd:Young:Male:neither:Yes
+6:aaa:Dog:Labrador Retriever:Young:Male:DogCat:Yes

@@ -1,0 +1,101 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    /* list-style: none; */
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: bold;
+
+}
+
+.header {
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #0062ff;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+
+}
+
+.menu {
+    width: 250px;
+    min-width: 250px;
+    background-color: #002053;
+
+}
+
+
+.menu a {
+    text-decoration: none;
+    color: #fff;
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 2px;
+    display: list-item;
+    padding: 20px;
+    border-top: 1px solid rgb(0, 0, 0);
+    border-bottom: 1px solid black
+}
+
+.menu a:hover {
+    background-color: red;
+    letter-spacing: 2px;
+}
+
+.contactinformation {
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    list-style: none;
+}
+
+.giveaway {
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.caring {
+    padding: 20px;
+    text-align: left;
+}
+
+.caringcat {
+    padding-top: 20px;
+}
+
+.finddogcat {
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.catdisplay {
+    list-style: none;
+    padding: top=10px;
+
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+}
